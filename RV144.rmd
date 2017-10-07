@@ -57,6 +57,9 @@ The plot below shows 16,402 peoplw were given an aids vaccine or a placebo. The 
 barchartGC(results,type = "percent")
 ```
 
+This chart shows that the vaccine is effective because 40% of the people who received the vaccine were HIV postive, yet 60% who received the placebo were hiv positive. 
+
+
 ### Numerical Results
 
 <!--Display numerical evidence as to the effectiveness of the vaccine with explanations !--> 
