@@ -49,6 +49,8 @@ rownames(results) <- c("none","aids")
 ## Results
 <!-- You are to add descriptive comments to explain to the reader what the plot is showing !-->
 
+The plot below shows 16,402 peoplw were given an aids vaccine or a placebo. The left side of the chart shows the expected outcome if there was no difference in the aids vaccine and placebo. The right side of the chart shows the actual results. Out of the population, 40% of the people who received the aids vaccine, contracted HIV-1 and 60% of the people who received the placebo contracted HIV-1.
+
 ### Graphical results
 <!--Display graphical evidence as to the effectiveness of the vaccine with explanations!-->
 ```{r}
