@@ -69,7 +69,7 @@ colPerc(results)
 rowPerc(results)
 ```
 
-
+In the numerical table above, I see that 40.80 percent of the people who recieved the vaccine contracted aids, yet 59.20 percent of the people who were given the placebo contracted aids.
 
 
 ## Inferential results
