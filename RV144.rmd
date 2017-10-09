@@ -86,3 +86,5 @@ In this chi-square inferential test, I notice the p value is small: 0.0482 so th
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
+
+In conclusion, the bar chart shows that 100 percent of the population (16,402 participants) was split into two equal groups(50/50) and given the placebo or aids vaccine. After that, they tested the participants and found that 40% of the people who were given the vaccine tested positive for HIV_1 and 60% of the people given the placebo tested postitive for HIV-1. So less people who received the vaccine, contracted aids. The numerical chart shows similar data because 40.80% who received the vaccine and 59.20% who received the placebo contracted aids. Finally, the last test lists the p value as 0.482 which is low, so we know there isnt a high chance of the vaccine being ineffective. When tested, the vaccine truly was effective for this poulation of people because the rate of contracting aids decreased.
