@@ -81,6 +81,8 @@ chisqtestGC(results, graph = TRUE)
 ```
 
 
+In this chi-square inferential test, I notice the p value is small: 0.0482 so the data was unlikely to have a true null. The vaccine is effective compared to the placebo because it lowers the amount of aids cases.
+
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
