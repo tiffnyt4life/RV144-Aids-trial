@@ -83,6 +83,19 @@ chisqtestGC(results, graph = TRUE)
 
 In this chi-square inferential test, I notice the p value is small: 0.0482 so the data was unlikely to have a true null. The vaccine is effective compared to the placebo because it lowers the amount of aids cases.
 
+Fisher's Exact Test for Count Data
+
+data:  results
+p-value = 0.04781
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 1.003440 2.124354
+sample estimates:
+odds ratio 
+  1.455047 
+  
+In this test, The odds ratio is one and the true odds ratio is not 1 so there will be a difference in the placebo and aids vaccine as to how many contract aids.
+
 ## Conclusions
 
 <Summarise your results as to the effectiveness of the vaccine with explanations that could be understood by your mom>
