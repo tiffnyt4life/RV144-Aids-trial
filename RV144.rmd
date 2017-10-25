@@ -57,7 +57,7 @@ The plot below shows 16,402 peoplw were given an aids vaccine or a placebo. The 
 barchartGC(results,type = "percent")
 ```
 
-This chart shows that the vaccine is effective because 40% of the people who received the vaccine were HIV postive, yet 60% who received the placebo were hiv positive. 
+This chart shows that the vaccine is effective because 40% of the people who received the vaccine were HIV postive, yet 60% who received the placebo were hiv positive. On the left we see that the group wass divided evenly 50/50. On the right we see the effectiveness. The blue is the vaccinated people and the pink are the placebo people. More people who received the placebo contracted aids(60%) than the vaccinated people(40%).
 
 
 ### Numerical Results
