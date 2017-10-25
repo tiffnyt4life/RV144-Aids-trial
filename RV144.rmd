@@ -15,7 +15,7 @@ require(tigerstats)
 
 In the late 1980s in Thailand, there was a dramatic increase in the prevalence of infection with the human immunodeficiency virus type 1 (HIV-1) in sentinel surveillance cohorts.1-3 Initially, these groups consisted of injection-drug users and commercial sex workers; they were subsequently expanded to include persons in the general population. By 1995, the overall seroprevalence of HIV-1 reached a peak of 3.7% among conscripts in the Royal Thai Army and of 12.5% among conscripts from Northern Thailand.2,4,5 The Thai Ministry of Public Health responded with an effective HIV-prevention campaign, and the number of new HIV-1 infections per year decreased from an estimated 143,000 in 1990 to 14,000 in 2007.2,4,6-9 The persistence of new infection despite these measures led public health officials to conclude that an HIV vaccine, within the context of a broader HIV-prevention program, was needed for better control of the epidemic.
 
-In the data there are 16,402 people who were given a placebo or aids vaccine.
+In the data there are 16,402 people who were given a placebo or aids vaccine. We can see this information in the environment column under the group size.
 
 ## Methods and data
 
